@@ -1,0 +1,51 @@
+drodriguez@ubuntu:~/Desktop/Lab7$ ./test
+command: cd ..
+command: pwd
+/home/drodriguez/Desktop
+command: ls -al|sort|wc -w
+command: ls -al &
+command: ls: cannot access '&': No such file or directory
+history
+1 pwd
+2 ls -al
+3 ls -al|sort
+4 history
+5 pwd
+6 ls -al|wc -w
+7 cd
+8 pwd
+9 cd ..
+10 pwd
+11 cd ~
+12 pwd
+13 cd /
+14 pwd
+15 cd home
+16 cd drodriguez
+17 ls -al|sort|wc -w
+18 ls
+19 ls -l
+20 history
+21 history
+22 history
+23 history
+24 pwd
+25 ls -al
+26 ls -al|sort|wc -w
+27 history
+28 pwd
+29 cd ..
+30 pwd
+31 pw
+32 pwd
+33 history
+34 PATH=:/home/drodriguez/Desktop/
+35 $echo
+36 $echo $PATH
+37 pwd
+38 printenv
+39 echo $PATH
+command: PATH=$PATH:/home/drodriguez/Desktop/
+command: echo $PATH
+$PATH
+command: exit

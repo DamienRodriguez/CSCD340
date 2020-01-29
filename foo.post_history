@@ -1,0 +1,46 @@
+pwd
+ls -al
+ls -al|sort
+history
+pwd
+ls -al|wc -w
+cd
+pwd
+cd ..
+pwd
+cd ~
+pwd
+cd /
+pwd
+cd home
+cd drodriguez
+ls -al|sort|wc -w
+ls
+ls -l
+history
+history
+history
+history
+pwd
+ls -al
+ls -al|sort|wc -w
+history
+pwd
+cd ..
+pwd
+pw
+pwd
+history
+PATH=:/home/drodriguez/Desktop/
+$echo
+$echo $PATH
+pwd
+printenv
+echo $PATH
+cd ..
+pwd
+ls -al|sort|wc -w
+ls -al &
+history
+PATH=$PATH:/home/drodriguez/Desktop/
+echo $PATH
